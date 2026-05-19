@@ -18,6 +18,9 @@ pip install -r requirements.txt
 streamlit run src/main.py
 
 ## Author
-Sai Krishna
+Sai Krishna Thota
+Praharsha Saddi
+Saketh Pabba
+Gangadhar
 B.Tech IT Final Year Project
 # HIA Project
