@@ -18,9 +18,8 @@ pip install -r requirements.txt
 streamlit run src/main.py
 
 ## Author
-Sai Krishna Thota
-Praharsha Saddi
-Saketh Pabba
-Gangadhar
-B.Tech IT Final Year Project
+- Sai Krishna (code-panther5) - Core Development, AI Agents, OCR & PDF Extraction, Authentication System
+- Praharsha Saddi (saddipraharsha2-stack) - UI Components, LLM Integration, Medical Value Extraction & Clinical Analysis
+- Saketh Pabba (sakethpabba) - Database Design, Schema Architecture & Project Documentation
+- Gangadhar - Streamlit Interface, Configuration Management & API Integration
 # HIA Project
